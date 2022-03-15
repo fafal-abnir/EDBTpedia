@@ -11,7 +11,7 @@
 Just run
 
 ```bash
-hugo server -D
+hugo server -D --port=8080 --bind=0.0.0.0
 ```
 
 Notice that the `-D` flag is used to rendrer draft elements.
