@@ -1,7 +1,7 @@
 ---
-key: laurent_d’Orazio
+key: laurent_dorazio
 name: Laurent d’Orazio
-id: laurent_d’Orazio
+id: laurent_dorazio
 feature: false
 company: University of Rennes
 city: 'Lannion, France'

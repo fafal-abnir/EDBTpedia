@@ -8,8 +8,8 @@ tags:
   - _web
 level: beginner
 speakers:
+  - laurent_dorazio
   - michail_georgoulakis_misegiannis
-  - laurent_d’Orazio
 # videoId: JADZMaRL4cE
 presentation: null
 draft: false
