@@ -1,4 +1,4 @@
-baseURL = "https://sandbox-devfesttoulouse.firebaseapp.com/"
+baseURL = "https://db.disi.unitn.eu/pages/EDBTpedia/"
 languageCode = "en"
 title = "EDBTpedia"
 
