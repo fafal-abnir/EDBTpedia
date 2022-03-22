@@ -1,38 +1,10 @@
-image: ilaborie/hugonode
+image: image: registry.gitlab.com/pages/hugo/hugo_extended:0.92.2
 
-variables:
-  GIT_SUBMODULE_STRATEGY: recursive
-
-before_script:
-  - hugo version
-  - echo node `node --version`
-  - echo yarn `yarn --version`
-  - yarn
-
-sandbox:
+pages:
   script:
-    - hugo -F
-    - node tools/pdf.js
-    - node tools/minify.js
-    - firebase use default
-    - firebase deploy --token "$FIREBASE_SANDBOX_TOKEN"
+  - hugo
   artifacts:
     paths:
-      - public
+    - public
   only:
-    - develop
-
-prod:
-  variables:
-    HUGO_ENV: production
-  script:
-    - hugo --baseURL https://2019.devfesttoulouse.fr/
-    - node tools/pdf.js
-    - node tools/minify.js
-    - firebase use prod
-    - firebase deploy --token "$FIREBASE_PROD_TOKEN"
-  artifacts:
-    paths:
-      - public
-  only:
-    - master
+  - master
