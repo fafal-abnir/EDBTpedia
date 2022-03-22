@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 image: image: registry.gitlab.com/pages/hugo/hugo_extended:0.92.2
+=======
+image: registry.gitlab.com/pages/hugo/hugo_extended:0.92.2
+>>>>>>> 81397d7 (add gitlab-ci)
 
 pages:
   script:
