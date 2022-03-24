@@ -17,6 +17,9 @@
 content:
   - title: footer_about
     links:
+      - name: EDBTpedia
+        url: http://example.com/
+        newTab: true
       - name: EDBT conference
         url: https://www.edbt.org/
         newTab: true
@@ -24,17 +27,17 @@ content:
         url: https://openproceedings.org/html/pages/index.html
         newTab: true
 
-  - title: footer_edbt_edition
-    links:
-      - name: EDBT 2022
-        url: https://conferences.inf.ed.ac.uk/edbticdt2022/
-        newTab: true        
-      - name: EDBT 2021
-        url: https://edbticdt2021.cs.ucy.ac.cy/
-        newTab: true
-      - name: EDBT 2020
-        url: https://diku-dk.github.io/edbticdt2020/
-        newTab: true
+  # - title: footer_edbt_edition
+    # links:
+    #   - name: EDBT 2022
+    #     url: https://conferences.inf.ed.ac.uk/edbticdt2022/
+    #     newTab: true        
+    #   - name: EDBT 2021
+    #     url: https://edbticdt2021.cs.ucy.ac.cy/
+    #     newTab: true
+    #   - name: EDBT 2020
+    #     url: https://diku-dk.github.io/edbticdt2020/
+    #     newTab: true
 
   #     - name: DevFest Toulouse 2016
   #       url: https://2016.devfesttoulouse.fr/

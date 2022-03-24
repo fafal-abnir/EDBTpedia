@@ -26,15 +26,15 @@ menu:
 
 
 
-{{% home-info what="Participants:11,Seminars:6" class="primary" %}}
-## What is EDBT Toulouse?
+{{% home-info what="Speaker:11,Seminars:6" class="primary" %}}
+## What is EDBTpedia?
 
-The EDBT is a technical conference for developers. 
+The EDBT is a technical free sharing website for professors and students to share their research paper. 
 It is aimed at students, professionals or simply curious technophiles.
 {{% /home-info %}}
 
 
-<!-- {{< youtube-section link="N1v-MkcyIMg" title="Watch 2022 into" class="" >}} -->
+{{< youtube-section link="N1v-MkcyIMg" title="Watch 2022 into" class="" >}}
 
 <!-- ... -->
 

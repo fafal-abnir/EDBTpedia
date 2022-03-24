@@ -4,8 +4,8 @@ title: 'Conceptual models and databases for searching the genome'
 id: pY6MCQBMfIYlIKfHdhL4
 language: French
 format: conference
-tags:
-  - _web
+conference: EDBT 2022
+tags: []
 # level: beginner
 speakers:
   - anna_bernasconi

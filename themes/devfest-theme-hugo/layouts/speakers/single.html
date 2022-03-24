@@ -6,6 +6,7 @@
 		<div class="speaker-img" style="background-image: url({{ .Page.Params.photoURL }});"></div>
 		<div>
 			<h1>{{ .Page.Params.name }}</h1>
+			<div class="speaker-company">{{ .Page.Params.company }}</div>
 
 			<ul class="socials">
 				{{ range .Page.Params.socials }}
@@ -17,18 +18,32 @@
 				</li>
 				{{ end }}
 			</ul>
-			<div class="speaker-company">{{ .Page.Params.company }}</div>
 
 		</div>
 	</header>
 
+</div>
+
+<section class="speaker">
+	<hr>
+	<header>
+		<!-- <h2>{{ .Page.Params.city }}</h2> -->
+	</header>
+
+	<div class="bio">
+		{{ .Content }}
+	</div>
+
+</section>
+<div class="hero">
 	<div class="description">
 
 		<ul class="talks">
+			<b>Seminars:</b>
 			{{ range where .Site.RegularPages "Params.speakers" "intersect" (slice .Page.Params.key) }}
 			<li>
 				<a href="{{ .Permalink }}" class="visually-hidden">{{ .Title }}</a>
-				<a href="{{ .Permalink }}" class="talk tag-{{ anchorize (delimit .Params.tags "" ) }}">
+				<a href="{{ .Permalink }}" class="talk tag">
 				<div class="tags">
 					{{ range .Params.tags }}
 						{{ range first 1 (where $.Site.Data.categories "key" .) }}
@@ -45,18 +60,6 @@
 
 	</div>
 </div>
-
-<section class="speaker">
-
-	<header>
-		<!-- <h2>{{ .Page.Params.city }}</h2> -->
-	</header>
-
-	<div class="bio">
-		{{ .Content }}
-	</div>
-
-</section>
 
 
 {{ end }}

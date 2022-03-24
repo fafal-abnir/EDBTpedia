@@ -7,7 +7,7 @@ company: University of Rennes
 city: 'Lannion, France'
 photoURL: /images/speakers/laurent_d’Orazio.jpg
 socials:   
-    - icon: site
+    - icon: home
       link: 'https://perso.univ-rennes1.fr/laurent.dorazio/'
 
 ---

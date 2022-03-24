@@ -15,9 +15,14 @@
 	</header>
 
 	<div class="info">
-		<div class="complexity">{{ .Params.level }}</div>
-		<div class="type type-{{ anchorize .Params.format }}">{{ .Params.format }}</div>
-
+		<!-- <div class="complexity">{{ .Params.level }}</div>
+		<div class="type type-{{ anchorize .Params.format }}">{{ .Params.format }}</div> -->
+		{{if .Params.duration}}
+		<div><strong>Duration:</strong>           {{.Params.duration}} min</div>
+		{{end}}
+		{{if .Params.conference}}
+		<div><strong>Conference:  </strong>    {{.Params.conference}}</div>
+		{{end}}
 		<div class="detail">
 			<ul class="speakers">
 				{{ range where .Site.RegularPages "Params.key" "in" .Params.speakers }}
@@ -33,6 +38,9 @@
 				{{ end }}
 			</ul>
 			<div class="content">{{ .Content }}</div>
+			{{if .Params.googledrivelink}}
+			<a href={{.Params.googledrivelink}}>[download]</a>
+			{{end}}
 		</div>
 
 	</div>

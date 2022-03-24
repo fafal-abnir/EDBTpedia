@@ -4,8 +4,8 @@ title: 'From Cloud to Serverless: MOO in the new Cloud epoch'
 id: pY6MCQBMfIYlIKfHdhL4
 language: French
 format: conference
-tags:
-  - _web
+conference: EDBT 2022
+tags: []
 level: beginner
 speakers:
   - laurent_dorazio
