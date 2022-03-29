@@ -11,7 +11,7 @@ duration: 114
 speakers:
   - karima_echihabi
   - kostas_zoumpatianos
-# videoId: JADZMaRL4cE
+videoId: Pl4JPZLZ2VQ
 presentation: null
 googledrivelink: https://drive.google.com/file/d/1FA64vdjMnyfFYuRkSXAD6qCE5g3-oI3z/view?usp=sharing
 draft: false

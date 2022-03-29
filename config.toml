@@ -16,7 +16,7 @@ googleAnalytics = "UA-37717223-8"
 [params]
     title = "EDBTpedia"
     date = "2022-03-13"
-    description = "The EDBT Association is a non-political and non-profit organization for promoting and supporting research and progress in the fields of databases and information systems technology and applications.."
+    description = "The EDBTpedia is a technical free sharing website for professors and students to share their research paper or tutorials. Our main goal is to provide a website to get more acquainted with the papers proposed at the EDBT conference."
     images = ["/images/social-share.jpg"]
     email = "contact@devfesttoulouse.fr"
     keywords = "event, gdg, gde, devfest, google, programming, android, chrome, developers, web, cloud, androiddev"

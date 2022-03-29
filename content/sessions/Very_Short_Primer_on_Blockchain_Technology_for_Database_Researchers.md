@@ -10,7 +10,7 @@ duration: 115
 conference: EDBT 2021
 speakers:
   - zsolt_istván
-# videoId: JADZMaRL4cE
+videoId: kIhVyptVLCA
 presentation: null
 googledrivelink: https://drive.google.com/file/d/1orihuS9ajhCpKD5KylAmr_kA0h699wSX/view?usp=sharing
 draft: false

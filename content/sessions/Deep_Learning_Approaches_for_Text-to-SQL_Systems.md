@@ -11,7 +11,7 @@ level: beginner
 speakers:
   - george_katsogiannis_meimarakis
   - georgia_koutrika
-# videoId: JADZMaRL4cE
+videoId: YdO4gm_SO1c
 presentation: null
 googledrivelink: https://drive.google.com/file/d/12ytARI25Gju86KJvkN4ukVvAWpuqIPW-/view?usp=sharing
 draft: false
