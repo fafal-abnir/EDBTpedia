@@ -5,7 +5,7 @@ id: rong_zhu
 feature: false
 company: Harbin Insitute
 city: 'Harbin, China'
-photoURL: /images/speakers/unknown.jpg
+photoURL: /images/speakers/rong_zhu.jpg
 socials: []
  
 ---

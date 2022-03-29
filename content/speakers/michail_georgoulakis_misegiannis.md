@@ -5,7 +5,7 @@ id: michail_georgoulakis_misegiannis
 feature: false
 company: NTUA
 city: 'Athens, Greeece'
-photoURL: /images/speakers/unknown.jpg
+photoURL: /images/speakers/michail_georgoulakis_misegiannis.jpeg
 socials: []
  
 ---

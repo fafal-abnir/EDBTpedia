@@ -8,8 +8,9 @@ conference: EDBT 2022
 tags: []
 level: beginner
 speakers:
-  - rong_zhu
   - ziniu_wu
+  - chengliang_chai
+  - rong_zhu
 # videoId: JADZMaRL4cE
 presentation: null
 draft: false

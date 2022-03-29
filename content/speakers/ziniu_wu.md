@@ -5,7 +5,7 @@ id: ziniu_wu
 feature: false
 company: MIT
 city: 'Massachusetts, USA'
-photoURL: /images/speakers/unknown.jpg
+photoURL: /images/speakers/ziniu_wu.jpg
 socials:
   - icon: linkedin
     link: 'https://www.linkedin.com/in/ziniu-wu-509b92141'

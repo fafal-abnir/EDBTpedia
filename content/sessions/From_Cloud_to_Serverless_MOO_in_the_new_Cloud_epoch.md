@@ -9,7 +9,8 @@ tags: []
 level: beginner
 speakers:
   - laurent_dorazio
-  - michail_georgoulakis_misegiannis
+  - verena_kantere
+  - michail_georgoulakis_misegiannis 
 # videoId: JADZMaRL4cE
 presentation: null
 draft: false
