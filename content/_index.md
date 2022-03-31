@@ -9,10 +9,12 @@ menu:
 ---
 
 
-{{% jumbo img="/images/backgrounds/edbt-back.png" %}}
+{{% jumbo img="/images/backgrounds/edbt-back.png"  %}}
 
 <!-- ### 29th March-1st April, 2022  -->
-### EDBTpedia
+## Speakers: 13    
+## Seminars: 6
+<!-- ### what="Speaker:11,Seminars:6" class="primary" -->
 <!-- ## Utrecht University -->
 
 <!-- <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a> -->
@@ -26,8 +28,9 @@ menu:
 {{% /jumbo %}}
 
 
+{{% home-info what="" class="primary" %}}
+<!--  home-info what="Speaker:11,Seminars:6" class="primary"  -->
 
-{{% home-info what="Speaker:11,Seminars:6" class="primary" %}}
 ## What is EDBTpedia?
 
 The EDBTpedia is a technical free sharing website for professors and students to share their research paper or tutorials. 
@@ -35,7 +38,7 @@ Our main goal is to provide a website to get more acquainted with the papers pro
 {{% /home-info %}}
 
 
-{{< youtube-section link="N1v-MkcyIMg" title="Watch 2022 into" class="" >}}
+<!-- {{< youtube-section link="N1v-MkcyIMg" title="Watch 2022 into" class="" >}} -->
 
 <!-- ... -->
 
