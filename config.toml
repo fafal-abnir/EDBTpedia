@@ -16,7 +16,7 @@ googleAnalytics = "UA-37717223-8"
 [params]
     title = "EDBTpedia"
     date = "2022-03-13"
-    description = "The EDBTpedia is a technical free sharing website for professors and students to share their research paper or tutorials. Our main goal is to provide a website to get more acquainted with the papers proposed at the EDBT conference."
+    description = "EDBTpedia is a media placeholder for the scientific tutorials and other education seminars that the EDBT community has organised. EDBT is a strong supporter of Open Science which is why it is making every effort to make these videos open to the public."
     images = ["/images/social-share.jpg"]
     email = "contact@devfesttoulouse.fr"
     keywords = "event, gdg, gde, devfest, google, programming, android, chrome, developers, web, cloud, androiddev"

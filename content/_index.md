@@ -12,8 +12,8 @@ menu:
 {{% jumbo img="/images/backgrounds/edbt-back.png"  %}}
 
 <!-- ### 29th March-1st April, 2022  -->
-## Speakers: 13    
-## Seminars: 6
+## Speakers: 20    
+## Seminars: 12
 <!-- ### what="Speaker:11,Seminars:6" class="primary" -->
 <!-- ## Utrecht University -->
 
@@ -31,10 +31,11 @@ menu:
 {{% home-info what="" class="primary" %}}
 <!--  home-info what="Speaker:11,Seminars:6" class="primary"  -->
 
-## What is EDBTpedia?
+## **EDBTpedia**
 
-The EDBTpedia is a technical free sharing website for professors and students to share their research paper or tutorials. 
-Our main goal is to provide a website to get more acquainted with the papers proposed at the EDBT conference. 
+**EDBTpedia** is a media placeholder for the scientific tutorials and other education seminars that the EDBT community has organised. EDBT is a strong supporter of Open Science which is why it is making every effort to make these videos open to the public.
+
+**Disclaimer**: The videos were not designed to be online material, but were live presentations in conferences or summer schools, that were simply recorded As such, they may not be up to the quality expected for an online presentation or tutorial. 
 {{% /home-info %}}
 
 

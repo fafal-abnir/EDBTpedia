@@ -7,11 +7,12 @@ format: conference
 conference: EDBT 2022
 tags: []
 level: beginner
+duration: 90
 speakers:
   - laurent_dorazio
   - verena_kantere
   - michail_georgoulakis_misegiannis 
-# videoId: JADZMaRL4cE
+videoId: tOHPV5ZoCFs
 presentation: null
 draft: false
 ---

@@ -7,10 +7,11 @@ format: conference
 conference: EDBT 2022
 tags: []
 # level: beginner
+duration: 79
 speakers:
   - anna_bernasconi
   - pietro_pinoli
-# videoId: JADZMaRL4cE
+videoId: FfZ57I-J6_k
 presentation: null
 draft: false
 ---
