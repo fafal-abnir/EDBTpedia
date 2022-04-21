@@ -11,9 +11,8 @@ menu:
 
 {{% jumbo img="/images/backgrounds/edbt-back.png"  %}}
 
-<!-- ### 29th March-1st April, 2022  -->
-## Speakers: 22    
-## Seminars: 12
+<!-- ### 29th March-1st April, 2022  -->   
+## 22 Experts in 12 Seminars
 <!-- ### what="Speaker:11,Seminars:6" class="primary" -->
 <!-- ## Utrecht University -->
 
