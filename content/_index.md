@@ -12,7 +12,7 @@ menu:
 {{% jumbo img="/images/backgrounds/edbt-back.png"  %}}
 
 <!-- ### 29th March-1st April, 2022  -->
-## Speakers: 20    
+## Speakers: 22    
 ## Seminars: 12
 <!-- ### what="Speaker:11,Seminars:6" class="primary" -->
 <!-- ## Utrecht University -->

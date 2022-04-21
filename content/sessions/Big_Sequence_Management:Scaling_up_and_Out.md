@@ -11,6 +11,7 @@ duration: 114
 speakers:
   - karima_echihabi
   - kostas_zoumpatianos
+  - themis_palpanas
 videoId: Pl4JPZLZ2VQ
 presentation: null
 draft: false

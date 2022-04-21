@@ -5,7 +5,7 @@ id: renée_miller
 feature: false
 company: Northeastern University
 city: 'Boston , USA'
-photoURL: /images/speakers/renée_miller.png
+photoURL: /images/speakers/unknown.jpg
 socials: 
   - icon: home
     link: 'https://www.khoury.northeastern.edu/people/renee-miller/'

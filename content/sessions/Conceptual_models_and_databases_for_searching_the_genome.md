@@ -1,6 +1,6 @@
 ---
 key: Conceptual_models_and_databases_for_searching_the_genome
-title: 'Conceptual models and databases for searching the genome'
+title: 'Conceptual Models and Databases for Searching the Genome'
 id: pY6MCQBMfIYlIKfHdhL4
 language: French
 format: conference

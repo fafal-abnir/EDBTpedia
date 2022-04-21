@@ -1,6 +1,6 @@
 ---
 key: information_extraction_​with_​document_spanners
-title: 'Information extraction ​with ​document spanners and Big data analytics with logical formalisms'
+title: 'Information Extraction ​with ​Document Spanners and Big Data Analytics with Logical Formalisms'
 id: information_extraction_​with_​document_spanners
 language: French
 format: conference

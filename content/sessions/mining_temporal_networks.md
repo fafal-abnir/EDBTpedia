@@ -10,6 +10,7 @@ level: beginner
 duration: 186
 speakers:
   - aristides_gionis
+  - plina_rozenshtein
 videoId: M8Eum5b7UVQ
 presentation: null
 draft: false
