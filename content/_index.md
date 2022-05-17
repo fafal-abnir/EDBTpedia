@@ -8,11 +8,18 @@ menu:
 
 ---
 
+## 22 Experts in 12 Seminars
 
-<!-- {{% jumbo img="/images/backgrounds/edbt-back.png"  %}} -->
+{{% jumbo img="/images/backgrounds/edbt-back.png"  %}} 
 
 <!-- ### 29th March-1st April, 2022  -->   
 ## 22 Experts in 12 Seminars
+## **EDBTpedia**
+
+**EDBTpedia** is a media placeholder for the scientific tutorials and other education seminars that the EDBT community has organised. EDBT is a strong supporter of Open Science which is why it is making every effort to make these videos open to the public.
+
+**Disclaimer**: The videos were not designed to be online material, but were live presentations in conferences or summer schools, that were simply recorded As such, they may not be up to the quality expected for an online presentation or tutorial. 
+{{% /home-info %}}
 <!-- ### what="Speaker:11,Seminars:6" class="primary" -->
 <!-- ## Utrecht University -->
 
@@ -27,15 +34,8 @@ menu:
 {{% /jumbo %}}
 
 
-{{% home-info what="" class="primary" %}}
-<!--  home-info what="Speaker:11,Seminars:6" class="primary"  -->
-
-## **EDBTpedia**
-
-**EDBTpedia** is a media placeholder for the scientific tutorials and other education seminars that the EDBT community has organised. EDBT is a strong supporter of Open Science which is why it is making every effort to make these videos open to the public.
-
-**Disclaimer**: The videos were not designed to be online material, but were live presentations in conferences or summer schools, that were simply recorded As such, they may not be up to the quality expected for an online presentation or tutorial. 
-{{% /home-info %}}
+<!-- {{% home-info what="" class="primary" %}} -->
+<!--  home-info what="Speaker:11,Seminars:6" class="primary"  --> 
 
 
 <!-- {{< youtube-section link="N1v-MkcyIMg" title="Watch 2022 into" class="" >}} -->
