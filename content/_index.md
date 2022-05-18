@@ -9,7 +9,7 @@ menu:
 ---
 
 
-{{% jumbo img="/images/backgrounds/edbt-back.png"  %}}
+{{% jumbo img="./images/backgrounds/edbt-back.png"  %}}
 
 <!-- ### 29th March-1st April, 2022  -->   
 ## 22 Experts in 12 Seminars
