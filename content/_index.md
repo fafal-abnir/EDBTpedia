@@ -14,9 +14,6 @@ menu:
 <!-- ### 29th March-1st April, 2022  -->   
 ## 22 Experts in 12 Seminars
 
-**EDBTpedia** is a media placeholder for the scientific tutorials and other education seminars that the EDBT community has organised. EDBT is a strong supporter of Open Science which is why it is making every effort to make these videos open to the public.
-
-**Disclaimer**: The videos were not designed to be online material, but were live presentations in conferences or summer schools, that were simply recorded As such, they may not be up to the quality expected for an online presentation or tutorial. 
 <!-- ### what="Speaker:11,Seminars:6" class="primary" -->
 <!-- ## Utrecht University -->
 
